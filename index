@@ -1,1 +1,21 @@
-n
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="padding: 10px; text-align: center; margin: auto;">
+    <header style="padding: 10px; text-align: center; background-color: gray;color:aquamarine"><h1>HELLOW WORLD</h1></header>
+    <div style="padding: 10px; text-align: center; display: block; width: auto; height: auto; background-color: aquamarine;color: gray;">
+        <h2 style="margin:20px;">FORMULARIO</h2>
+        <label style="margin:10px;">NOMBRE DE USUARIO</label><br>
+        <input style="margin:10px;" type="text"><br>
+        <label style="margin:10px;">CONTRASEÑA</label><br>
+        <input style="margin:10px;" type="password"><br>
+        <button style="margin: 10; background-color: gray;color: aquamarine;border: none;">INGRESAR</button>
+    </div>
+    <footer style="background-color:gray; color: aquamarine;"><h1>MI FOOTER</h1></footer>
+</body>
+</html>
