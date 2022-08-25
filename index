@@ -16,6 +16,6 @@
         <input style="margin:10px;" type="password"><br>
         <button style="margin: 10; background-color: gray;color: aquamarine;border: none;">INGRESAR</button>
     </div>
-    <footer style="background-color:gray; color: aquamarine;"><h1>MI FOOTER</h1></footer>
 </body>
 </html>
+<footer style="background-color:gray; color: aquamarine;"><h1>MI FOOTER</h1></footer>
